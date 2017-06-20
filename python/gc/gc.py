@@ -1,7 +1,7 @@
 # Project Rosalind
 # June 20, 2017
 # Luiz Franca
-# Problem 01
+# Problem 05
 # DNA
 
 import sys
