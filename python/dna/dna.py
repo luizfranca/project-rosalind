@@ -1,5 +1,6 @@
 # Project Rosalind
-# Luiz França
+# June 20, 2017
+# Luiz Franca
 # Problem 01
 # DNA
 
